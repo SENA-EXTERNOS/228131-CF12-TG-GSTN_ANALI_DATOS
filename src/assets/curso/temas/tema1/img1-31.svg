@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1187" height="550" viewBox="0 0 1187 550">
+  <g id="Grupo_146528" data-name="Grupo 146528" transform="translate(-207 -7331)">
+    <g id="Grupo_141906" data-name="Grupo 141906" transform="translate(-26 553)">
+      <g id="Layer_1-2" transform="translate(233 6778)">
+        <g id="Main_Infographic">
+          <g id="Grupo_141902" data-name="Grupo 141902">
+            <path id="Trazado_195846" data-name="Trazado 195846" d="M196.86,190.09,117.45,10.13H593.9L514.5,190.09Z" fill="#727997"/>
+            <path id="Trazado_195847" data-name="Trazado 195847" d="M435.09,370.04H276.27L196.86,190.09H514.5Z" fill="#12263f"/>
+            <path id="Trazado_195848" data-name="Trazado 195848" d="M355.68,550,276.27,370.04H435.09Z" fill="#bddcf6"/>
+          </g>
+        </g>
+        <path id="Trazado_195849" data-name="Trazado 195849" d="M208.73,179.58,142.75,30.07H718.57L652.6,179.58Z" fill="#4dd0e1"/>
+        <path id="Trazado_195850" data-name="Trazado 195850" d="M577.6,358.82H289.7L223.73,209.31H643.57Z" fill="#4dd0e1"/>
+        <path id="Trazado_195851" data-name="Trazado 195851" d="M370.68,538.06,304.7,388.55H566.04l-69,149.51Z" fill="#4dd0e1"/>
+        <g id="Grupo_141903" data-name="Grupo 141903">
+          <rect id="Rectángulo_44402" data-name="Rectángulo 44402" width="47.15" height="488" transform="translate(31.23 62)" fill="#feca2e"/>
+          <path id="Trazado_195852" data-name="Trazado 195852" d="M56.98,0,0,65.96H109.6Z" fill="#feca2e"/>
+        </g>
+      </g>
+      <text id="No_estructurados" data-name="No estructurados" transform="translate(577 6891)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">No estructurados</tspan></text>
+      <text id="Semi_estructurados" data-name="Semi estructurados" transform="translate(564 7070)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Semi estructurados</tspan></text>
+      <text id="Estructurados" transform="translate(595 7243)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Estructurados</tspan></text>
+      <text id="Aumento_del_crecimiento" data-name="Aumento del crecimiento" transform="translate(293 7200) rotate(-90)" fill="#0f2771" font-size="20" font-family="Roboto-BoldItalic, Roboto" font-weight="700" font-style="italic"><tspan x="0" y="0">Aumento del crecimiento</tspan></text>
+      <rect id="Rectángulo_44405" data-name="Rectángulo 44405" width="610" height="161" rx="20" transform="translate(810 6985)" fill="#0f2771"/>
+      <rect id="Rectángulo_44406" data-name="Rectángulo 44406" width="664" height="115" rx="20" transform="translate(756 7185)" fill="#0f2771"/>
+      <text id="Datos_que_se_almacenan_en_bases_de_datos_relacionales_como_SQL_Oracle_etc._Los_datos_se_organizan_en_filas_y_columnas_dentro_de_tablas_con_nombre._Base_de_datos_gestión_de_facturación._" data-name="Datos que se almacenan en bases de datos relacionales como SQL, Oracle etc. Los datos se organizan en filas y columnas dentro de tablas con nombre.
+     Base de datos gestión de facturación.
+" transform="translate(895 7196)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Datos que se almacenan en bases de datos relacionales como SQL, </tspan><tspan x="0" y="41">Oracle etc. Los datos se organizan en filas y columnas dentro de </tspan><tspan x="0" y="65">tablas con nombre.</tspan><tspan x="0" y="89" xml:space="preserve">     Base de datos gestión de facturación.</tspan></text>
+      <text id="No_presentan_una_estructura_definida_como_en_los_datos_estructurados_pero_si_presentan_una_organización_definida_en_sus_metadatos_donde_describen_los_objetos_y_sus_relaciones_y_que_en_algunos_casos_están_aceptados_por_convención_Formatos_HTML_XML_o" data-name="No presentan una estructura definida como en los datos estructurados, pero si presentan una organización definida en sus metadatos donde describen los objetos y sus relaciones, y que en algunos casos están aceptados por convención
+     Formatos HTML, XML o" transform="translate(895 6998)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">No presentan una estructura definida como en los datos </tspan><tspan x="0" y="41">estructurados, pero si presentan una organización definida en sus </tspan><tspan x="0" y="65">metadatos donde describen los objetos y sus relaciones, y que en </tspan><tspan x="0" y="89">algunos casos están aceptados por convención</tspan><tspan x="0" y="113" xml:space="preserve">     Formatos HTML, XML o JSON</tspan><tspan x="0" y="137" xml:space="preserve">     Correos electrónicos</tspan></text>
+      <circle id="Elipse_4996" data-name="Elipse 4996" cx="4" cy="4" r="4" transform="translate(883 7006)" fill="#feca2e"/>
+      <circle id="Elipse_4999" data-name="Elipse 4999" cx="4" cy="4" r="4" transform="translate(883 7204)" fill="#feca2e"/>
+      <circle id="Elipse_4994" data-name="Elipse 4994" cx="4" cy="4" r="4" transform="translate(905 6864)" fill="#4dd0e1"/>
+      <circle id="Elipse_4997" data-name="Elipse 4997" cx="4" cy="4" r="4" transform="translate(905 7101)" fill="#4dd0e1"/>
+      <circle id="Elipse_5000" data-name="Elipse 5000" cx="4" cy="4" r="4" transform="translate(905 7276)" fill="#4dd0e1"/>
+      <circle id="Elipse_4995" data-name="Elipse 4995" cx="4" cy="4" r="4" transform="translate(905 6887)" fill="#4dd0e1"/>
+      <circle id="Elipse_4998" data-name="Elipse 4998" cx="4" cy="4" r="4" transform="translate(905 7124)" fill="#4dd0e1"/>
+      <path id="Trazado_208202" data-name="Trazado 208202" d="M0-30H575V16a19.881,19.881,0,0,1-19.759,20H19.759A19.881,19.881,0,0,1,0,16Z" transform="translate(845 6908)" fill="#bddcf6"/>
+      <text id="Más_del_90_de_la_información_disponible_está_en_este_tipo" data-name="Más del 90% de la información disponible está en este tipo" transform="translate(928 6935)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Más del 90% de la información disponible está en este tipo</tspan></text>
+      <rect id="Rectángulo_44404" data-name="Rectángulo 44404" width="575" height="115" rx="20" transform="translate(845 6800)" fill="#0f2771"/>
+      <text id="No_tiene_un_modelo_de_información_y_no_está_organizado_en_ningún_formato_específico._Se_almacena_como_archivos_y_datos_sueltos_Archivos_de_texto_y_videos._El_cuerpo_del_mensaje_de_un_correo_electrónico" data-name="No tiene un modelo de información y no está organizado en ningún formato específico. Se almacena como archivos y datos sueltos
+     Archivos de texto y videos.
+     El cuerpo del mensaje de un correo electrónico" transform="translate(895 6808)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">No tiene un modelo de información y no está organizado en ningún </tspan><tspan x="0" y="41">formato específico. Se almacena como archivos y datos sueltos</tspan><tspan x="0" y="65" xml:space="preserve">     Archivos de texto y videos.</tspan><tspan x="0" y="89" xml:space="preserve">     El cuerpo del mensaje de un correo electrónico</tspan></text>
+      <circle id="Elipse_4993" data-name="Elipse 4993" cx="4" cy="4" r="4" transform="translate(883 6815)" fill="#feca2e"/>
+    </g>
+  </g>
+</svg>

@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 19%
+    right: 77%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 30%
+    right: 10%
 
 
 @keyframes float1
@@ -17,3 +17,102 @@
 
   100%
     transform: translateY(0px)
+
+.banner-interno__fondo
+  background-position: top !important
+
+
+//COLORES CORTOS
+.cp
+  color: $color-primario !important
+
+.cs
+  color: $color-secundario !important
+
+.cac
+  color: $color-acento-contenido !important
+
+.cab
+  color: $color-acento-botones !important
+
+.cst
+  color: $color-sistema-texto !important
+
+.tarjeta--azul
+  background-color: #F5FAFE !important
+
+.tarjeta--azul2
+  background-color: #BDDCF6 !important
+
+.tarjeta--gris
+  background-color: #D2F3F8 !important
+
+.tarjeta--lt1
+  background-color: #FFF8E4 !important
+
+.tarjeta-animada
+  background-color: #5ED4E3 !important
+
+.tarjeta-carrusel
+  background-color: #FFE595 !important
+
+.ca1
+  background-color: #F6F6F6 !important
+
+//RECTÁNGULOS DE FONDO
+.rectanguloid
+  position: relative
+  &::before
+    content: ''
+    width: 50%
+    height: 30%
+    background-color: rgb(232, 242, 244)
+    bottom: 0
+    right: 0
+    display: block
+    position: absolute
+    mix-blend-mode: multiply
+
+.rectanguloid3
+  position: relative
+  &::before
+    content: ''
+    width: 50%
+    height: 30%
+    background-color: rgb(238, 246, 253)
+    bottom: 0
+    right: 0
+    display: block
+    position: absolute
+    mix-blend-mode: multiply
+
+.slyder-a__bullets__item--active
+  background-color: rgb(15, 39, 113) !important
+  
+.slyder-a__bullets__item
+  background-color: rgb(149, 162, 189)
+
+.bloque-texto-1
+  background-color: #DEE4F0
+  &:before
+    background-color: #BDDCF6
+
+.bloque-texto-2
+  background-color: #ECF5FC
+  &:before
+    background-color: #BDDCF6
+
+.acordion__activo
+  background-color: #FFF7E0 !important
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+
+.linea-tiempo-c__header__btn--left
+  background-color: #E8E8E8 !important
+.linea-tiempo-c__header__btn--right
+  background-color: #E8E8E8 !important
+
+.slyder-f__btn
+  i
+    color: #707070 !important
