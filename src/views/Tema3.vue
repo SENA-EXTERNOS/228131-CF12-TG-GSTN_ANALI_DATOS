@@ -14,7 +14,7 @@
       .col-lg-10(data-aos="fade-left")
         p.mb-0 Los KPI son indicadores o valores cuantitativos que se pueden medir, comparar y monitorear para detectar el proceso y el desempeño laboral en la estrategia de la empresa.
 
-    .tarjeta.tarjeta--azul.p-4.mb-5
+    .tarjeta.tarjeta--azul3.p-4.mb-5
       SlyderA(tipo='b')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -203,7 +203,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nEoA37elTjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     .row.justify-content-center
       .col-lg-10(data-aos="flip-up")
@@ -296,12 +296,12 @@
           figure
             img(src='@/assets/curso/temas/tema3/img3-23.png', alt='Visualización entre columnas y medidas')
             
-    .col-lg-10.mx-auto
-      .tarjeta.tarjeta--azul2.img2-4.p-4.mb-5
+    .col-lg-10.mx-auto.mb-5
+      .tarjeta.tarjeta--azul2.p-3
         .row.justify-content-around.align-items-center
           .col-1.col-sm-2.col-lg-1
             figure
-              img(src='@/assets/curso/temas/tema3/img3-24.svg', alt='Gráfico')
+              img(src='@/assets/curso/temas/tema3/img3-24.svg', alt='Histograma')
           .col-auto
             .row.justify-content-between.align-items-center
               .col-auto.mb-3.mb-sm-0
@@ -309,7 +309,7 @@
               .col.mb-3.mb-sm-0
                 a.boton.color-acento-botones(a href="https://youtu.be/QsehT8swx58?list=PL6kQim6ljTJuIJlGNWwCzXx89vj3gsymk" target="_blank" type="application/url")
                   span(style='color:#12263F !important') Ver video
-    
+
     Separador
 
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -318,7 +318,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         p Para dar inicio al desarrollo para la visualización de datos, ya la definición de los datos y sus relaciones deben estar configuradas.
-        p En el panel “Informe” del aplicativo se identifican los componentes de la interfaz de la aplicación, estos se identifican:
+        p.mb-5 En el panel “Informe” del aplicativo se identifican los componentes de la interfaz de la aplicación, estos se identifican:
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 9
           br
@@ -326,7 +326,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img3-25.png', alt='Interfaz gráfica de Power BI')
       .col-lg-6
-         LineaTiempoD.color-primario
+         LineaTiempoD.color-acento-contenido
           p.text-small(numero="1" titulo="Rojo") Se encuentra la data, lo que incluye las tablas, sus campos, medidas y columnas calculadas. Adicionalmente, en este panel, se configuran las jerarquías de datos.
           p.text-small(numero="2" titulo="Fucsia") “Visualizaciones”, se encuentra la paleta de opciones y el tipo de gráfico disponibles u objetos visuales; se pueden incluir más, pero algunos requieren cuenta de 
             em Office 

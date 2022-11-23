@@ -18,7 +18,7 @@
           em marketing
           |, producción, etc.
       
-    .tarjeta.tarjeta--azul.p-4.mb-5  
+    .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="zoom-in")
       SlyderA(tipo='b')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -106,12 +106,14 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
-        p.mb-0 El levantamiento de requisitos para desarrollo de soluciones de analítica puede usar los mismos instrumentos para el desarrollo del software, que en otros recursos de estudio de la tecnología se tratan. Sin embargo, el enfoque debe orientarse hacia los insumos, donde coordinadores y gerentes puedan visualizar su área y/o negocio y a partir de ello generar conocimiento para actuar.
+        p.mb-0 El levantamiento de requisitos para desarrollo de soluciones de analítica puede usar los mismos instrumentos para el desarrollo del 
+          em software
+          |, que en otros recursos de estudio de la tecnología se tratan. Sin embargo, el enfoque debe orientarse hacia los insumos, donde coordinadores y gerentes puedan visualizar su área y/o negocio y a partir de ello generar conocimiento para actuar.
       .col-lg-2(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img1-12.svg', alt='Computador portátil')
 
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-4.py-md-5(titulo="Conocer la organización" :icono="require('@/assets/curso/temas/tema1/img1-13.svg')")
         .row
           .col-md-7.mb-4.mb-md-0
@@ -186,7 +188,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9(data-aos='fade-right')
-        p Hoy las organizaciones pueden acceder a más datos que antes. Pero esto no tiene valor, a menos que sepan cómo poner a trabajar su 
+        p.mb-0 Hoy las organizaciones pueden acceder a más datos que antes. Pero esto no tiene valor, a menos que sepan cómo poner a trabajar su 
           em Big data
           |. Para comenzar el aprovechamiento y sacarle valor de los datos, pueden visualizar algunos casos de uso en los datos, donde muchas empresas han tenido éxito, (Oracle, 2020).
       .col-lg-3(data-aos='fade-left')
@@ -201,7 +203,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img1-23.png', alt='Explicación')
       .col-lg-8(data-aos='fade-left')
-         LineaTiempoD
+         LineaTiempoD.color-acento-contenido
           p.text-small(numero="1" titulo="Mantenimientos predictivos") Los datos podrían ayudar a predecir la falla de un equipo, teniendo en cuenta datos como: año del equipo, marca, modelo. Además, con los registros de temperatura, uso, cambio de repuestos, etc. Con estos datos, los fabricantes pueden maximizar el tiempo de actividad de las piezas y los equipos, e implementar el mantenimiento de manera más rentable. Igualmente, calcular mejor la rentabilidad del equipo, su depreciación y vida útil.
           p.text-small(numero="2" titulo="Operaciones eficientes") Cuando hay producción en línea, los datos podrían ayudar a optimizar costos y tiempos, analizando el flujo de producción, así como, analizando los tiempos y recursos.
           p.text-small(numero="3" titulo="Desarrollo de nuevos productos") Los datos podrían ayudar a la empresa a anticipar la demanda de los clientes, al analizar compras del pasado, al igual que, crear ofertas y saber si el público adquiere nuevos productos y servicios.
@@ -286,7 +288,7 @@
       .col-lg-10(data-aos="fade-left")
         p Una de las definiciones y análisis iniciales más importantes, a la hora de identificar las fuentes de datos, es la manera o arquitectura en que se almacena la información. Según cómo se almacenen y gestionen los datos digitales, estos pueden clasificarse, en términos generales como datos estructurados, semiestructurados. (Ommi, 2018).
 
-    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
       h5 Figura 1
       br
       em Clasificación de los datos

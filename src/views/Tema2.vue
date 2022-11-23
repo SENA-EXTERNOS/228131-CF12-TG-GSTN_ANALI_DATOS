@@ -22,7 +22,7 @@
       em datawarehouse 
       |o bodega de datos, que será el insumo para los reportes BI.
 
-    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
       h5 Figura 2
       br
       em Infografía proceso ETL
@@ -170,7 +170,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img2-7.svg', alt='Flujo de información')
 
-    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+    .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
       h5 Figura 3
       br
       em Flujo de un proceso ETL
@@ -199,22 +199,27 @@
               em warehouse 
               |o bodega de datos.
 
+    Separador
+
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 2.4 Modelación de cubos de datos
+
     p.mb-5 Los cubos, no son precisamente parte del proceso ETL, podría indicarse que es la manera en cómo el DWH entrega datos, para consumirlos a través de visualización en tablas o gráficos multidimensionales.
 
     .row.justify-content-center.mb-5
       .col-lg-5(data-aos='fade-right')
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 3
+          h5 Figura 4
           br
           em Cubo OLAP
         figure
-          img(src='@/assets/curso/temas/tema2/img2-10.svg', alt='Cubo OLAP')
+          img(src='@/assets/curso/temas/tema2/img2-10.svg', alt='Cubo OLAP').mb-2
           figcaption Nota. Adaptada de Cubos OLAP de información para la toma de decisiones. Evaluando 
             | 
             em Software 
             |(2022)
       .col-lg-7(data-aos='fade-left')
-         LineaTiempoD.color-primario
+         LineaTiempoD.color-acento-contenido
           p.text-small(numero="1" titulo="Cubos OLAP") Denominado generalmente como cubos OLAP (
             em OnLine Analytical Processing
             |) o procesamiento Analítico en Línea; se refiere a una estructura multidimensional que contiene información con objetivos analíticos; se compone principalmente de dimensiones y medidas.
