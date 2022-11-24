@@ -211,17 +211,17 @@
           p.text-small(numero="5" titulo="Mejorar la experiencia en puntos de venta físicos") Haciendo uso de la geolocalización de los celulares se mejora la oferta a los clientes, ofreciendo productos que están más cerca de ellos y de esta manera, alentarlos a visitar las tiendas físicas.
           p.text-small(numero="6" titulo="Análisis y optimización de precios") Las empresas requieren estarse actualizando en los precios promedio de los productos, para no encontrarse de manera sorpresiva con el abandono de sus clientes; debido a que otra marca les ofrece un menor precio. Los precios en el mercado fluctúan según los comportamientos de la demanda, el consumo, las temporadas y otros factores externos.
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.rectanguloid.p-4(data-aos="fade-right")
         p Para reforzar los conceptos sobre este tema, se invita a leer el artículo, 
           em Valorar los datos de Oracle 
           |(2020). También puede encontrarse en el material complementario.
-        p En la etapa de valoración se pudo comprender, que los casos de uso cubren variados sistemas económicos y dan valor a los datos, a partir de las realidades de la empresa. Ahora corresponde seguir el proceso con las fuentes de datos, que son las encargadas de brindar los datos a través de múltiples orígenes.
+        p.mb-0 En la etapa de valoración se pudo comprender, que los casos de uso cubren variados sistemas económicos y dan valor a los datos, a partir de las realidades de la empresa. Ahora corresponde seguir el proceso con las fuentes de datos, que son las encargadas de brindar los datos a través de múltiples orígenes.
       .col-lg-3(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img1-24.svg', alt='Datos')
 
-    Separador
+    Separador.mb-4
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3 Origen de datos según requerimientos del nivel de decisión
