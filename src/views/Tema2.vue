@@ -33,10 +33,10 @@
           img(src='@/assets/curso/temas/tema2/img2-2.svg', alt='Proceso ETL')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2(data-aos="fade-right")
+      .col-lg-2.col-sm-2(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema2/img2-3.svg', alt='Banco de datos')
-      .col-lg-10(data-aos="fade-left")
+      .col-lg-10.col-sm-10(data-aos="fade-left")
         p Para iniciar el desarrollo del proyecto de analítica, es imprescindible seleccionar una herramienta ETL, para elegir la opción más adecuada es necesario determinar las necesidades, el presupuesto, la dimensión o tamaño del proyecto y la data y, los conocimientos técnicos específicos de cada herramienta de desarrollo, la capacidad de conectarse a diversas fuentes, versatilidad, capacidades, etc.
         p Algunas marcas y herramientas podrían ser:
 
@@ -56,7 +56,7 @@
                 th Herramientas
             tbody
               tr
-                td 
+                td.text-center 
                   em Oracle
                 td 
                   ul.lista-ul
@@ -71,7 +71,7 @@
                     em Oracle WarehouseBuilder 
                     |(OWB)
               tr
-                td 
+                td.text-center
                   em Microsoft
                 td 
                   ul.lista-ul
@@ -85,7 +85,7 @@
                     |
                     em Azure Databricks
               tr
-                td 
+                td.text-center
                   em Hitachi
                 td 
                   ul.lista-ul
@@ -94,7 +94,7 @@
                     |
                     em Pentaho Data Integration
               tr
-                td IBM
+                td.text-center IBM
                 td 
                   ul.lista-ul
                   li
@@ -102,7 +102,7 @@
                     |
                     em InfosphereData Stage
               tr
-                td SAP
+                td.text-center SAP
                 td 
                   ul.lista-ul
                   li
@@ -207,13 +207,13 @@
     p.mb-5 Los cubos, no son precisamente parte del proceso ETL, podría indicarse que es la manera en cómo el DWH entrega datos, para consumirlos a través de visualización en tablas o gráficos multidimensionales.
 
     .row.justify-content-center.mb-5
-      .col-lg-5(data-aos='fade-right')
+      .col-lg-5.mb-5(data-aos='fade-right')
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 4
           br
           em Cubo OLAP
         figure
-          img(src='@/assets/curso/temas/tema2/img2-10.svg', alt='Cubo OLAP').mb-2
+          img(src='@/assets/curso/temas/tema2/img2-10.svg', alt='Cubo OLAP').mb-3
           figcaption Nota. Adaptada de Cubos OLAP de información para la toma de decisiones. Evaluando 
             | 
             em Software 

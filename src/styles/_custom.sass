@@ -97,10 +97,13 @@
 .tabs-b.color-acento-contenido .tabs-b__tab--active
   border-top-color: #4DD0E1 !important
 
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
-  background-color: #D2F3F8
+.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content__title
+    background-color: #D2F3F8
+    border-radius: 5px 5px 0 0
 .linea-tiempo-d__item__content__slot
   background-color: #D2F3F8
+  border-radius: 0 0 5px 5px
 .linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   background-color: #D2F3F8 !important
 
@@ -139,3 +142,27 @@
 .slyder-f__btn
   i
     color: #707070 !important
+
+.tarjeta-carrusel.p-4
+  height: 380px
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important
+  border-radius: 8%
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: rgba(77, 208, 225, .95)
+
+.col-sm-6.col-lg-4.col-xl.tabs-c__tab.py-3.tabs-c__tab--active
+  font-weight: bold

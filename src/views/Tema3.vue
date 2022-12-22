@@ -117,22 +117,22 @@
             p.mb-2 Un ejemplo de KPI en una empresa de transporte de pasajeros, incluirán indicadores como:
             ul.lista-ul
               li
-                i.fas.fa-circle.cab
+                i.fas.fa-circle.fa-xs.cab
                 |Número de pasajeros por cada ruta.
               li
-                i.fas.fa-circle.cab
+                i.fas.fa-circle.fa-xs.cab
                 |Número y tipo de buses usados en la operación.
               li
-                i.fas.fa-circle.cab
+                i.fas.fa-circle.fa-xs.cab
                 |Viajes por vehículo.
               li
-                i.fas.fa-circle.cab
+                i.fas.fa-circle.fa-xs.cab
                 |Cantidad de pasajeros por vehículo.
               li
-                i.fas.fa-circle.cab
+                i.fas.fa-circle.fa-xs.cab
                 |Kilómetros por vehículo.
               li
-                i.fas.fa-circle.cab
+                i.fas.fa-circle.fa-xs.cab
                 |Conductores y horas de manejo.
 
     .row.justify-content-center

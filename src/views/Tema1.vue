@@ -144,24 +144,23 @@
 
     p.mb-5 Al aplicar estos instrumentos y herramientas de toma de datos, es importante que se tenga el enfoque en los procesos y las tareas de los procesos, no en las áreas. Ya que, conocer el área podría implicar mucho desgaste y, generar tareas e información dispersa, lo que hace más complicado de comprender. Además, podrían existir procesos que involucren otra u otras áreas.
 
-    .row.mb-5
-      .col-sm-6.col-xl-6.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.tarjeta-animada(@mouseover="indicadorTarjetaSlide = false")
-          .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Bus dimensional
-              p A partir de la toma de requisitos y necesidades, se deben identificar elementos comunes. Es decir, definir elementos que en varios procesos se repiten o usan la misma información.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-19.svg')})`}")
-
-      .col-sm-6.col-xl-6.mb-4.mb-xl-0
-        .tarjeta.tarjeta-slide.arriba.tarjeta-animada(@mouseover="indicadorTarjetaSlide = false")
-          .indicador--hover(v-if="indicadorTarjetaSlide")
-          .tarjeta-slide__contenedor
-            .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Dar prioridad a los procesos
-              p Se debe elegir empezar con los procesos que más impacto tienen para la organización.
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img1-20.svg')})`}")
+    .row.justify-content-center.mb-5
+      .col-xl-6.col-lg-6.col-md-9.col-sm-12.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema1/img1-19.svg", alt="Configuración")
+          .crd_hover_txt--body.w-100
+            h4.mb-3.text-center Bus dimensional
+            p.text-center.mb-0 A partir de la toma de requisitos y necesidades, se deben identificar elementos comunes. Es decir, definir elementos que en varios procesos se repiten o usan la misma información.
+      .col-xl-6.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema1/img1-20.svg", alt="Prioridades")
+          .crd_hover_txt--body.w-100
+            h4.mb-3.text-center Dar prioridad a los procesos
+            p.text-center.mb-0 Se debe elegir empezar con los procesos que más impacto tienen para la organización.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="zoom-in-up")
