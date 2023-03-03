@@ -3,12 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 A partir del siguiente mapa conceptual, se asociarán mejor los conceptos y su relación entre las diferentes temáticas:
-
-    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 14
-      br
-      em Reportes y proyectos de analítica
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
     .row.justify-content-center
       .col-lg-12.mb-5

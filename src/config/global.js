@@ -52,15 +52,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo:
-              'Origen de datos según requerimientos del nivel de decisión',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
             titulo: 'Definición de detalles de los reportes',
-            hash: 't_1_4',
+            hash: 't_1_3',
           },
         ],
       },
@@ -174,16 +167,15 @@ export default {
   },
   complementario: [
     {
-      tema: 'Valor de los datos',
+      tema: 'Análisis de requerimientos para la toma de decisiones',
       referencia:
-        'ORACLE. (2020). <em>Top big data analytics use cases. Recursos formativos de Oracle.</em>',
+        'ORACLE. (2020). <em>Top big data analytics use cases</em>. Recursos formativos de Oracle.',
       tipo: 'Artículo',
       link:
         'https://www.oracle.com/lad/big-data/what-is-big-data/the-top-use-cases-for-big-data-analytics/?source=:ad:pas:go:dg:a_lad:71700000086979734-58700007414859471-p66509544640:RC_WWMK220512P00038C0002:DataManagementPAN&gclid=Cj0KCQjw7KqZBhCBARIsAI-fTKK3YFeoon2TKeXtpVbyNUAXaiAZT8WVm-7BThhShJPA1iHQw8iysoAaAsE_EALw_wcB&gclsrc=aw.ds',
     },
     {
-      tema:
-        'Aspectos a tener en cuenta para definir los reportes en proyectos de analítica.<br>Organizaciones orientadas al dato: transformando las organizaciones hacia una cultura analítica.',
+      tema: 'Análisis de requerimientos para la toma de decisiones',
       referencia:
         'Curto Díaz, J. (2016). <em>Organizaciones orientadas al dato: transformando las organizaciones hacia una cultura analítica.</em>',
       tipo: 'Libro',
@@ -191,17 +183,17 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/58609',
     },
     {
-      tema: 'Lenguaje DAX: aprenda los fundamentos de DAX en 30 minutos',
+      tema: 'Análisis de requerimientos para la toma de decisiones',
       referencia:
-        'Microsoft (2018). <em></em>Tutorial rápido: aprenda los fundamentos DAX en 30 minutos. Microsoft.</em>',
+        'Microsoft (2018). <em></em>Tutorial rápido: aprenda los fundamentos DAX en 30 minutos</em>. Microsoft.',
       tipo: 'Tutorial',
       link:
         'https://support.microsoft.com/es-es/office/tutorial-r%C3%A1pido-aprenda-los-fundamentos-de-dax-en-30-minutos-51744643-c2a5-436a-bdf6-c895762bec1a',
     },
     {
-      tema: 'Power BI. Universitat Politécnica de Valéncia UPV.',
+      tema: 'Análisis de requerimientos para la toma de decisiones',
       referencia:
-        'Zabala (2021). <em>MOOC Power BI. Índice módulo 1</em> | 1/136 | UPV. YouTube.',
+        'Zabala. (2021). <i>MOOC Power BI. Índice módulo 1 | 1/136 | UPV</i> (video). YouTube.',
       tipo: 'MOOC',
       link:
         'https://youtu.be/QsehT8swx58?list=PL6kQim6ljTJuIJlGNWwCzXx89vj3gsymk',
@@ -219,14 +211,14 @@ export default {
         'tablero de mando donde se visualizan los datos en forma gráfica y de manera amigable.',
     },
     {
-      termino: '<em>Datawarehouse</em>',
+      termino: '<em>Data warehouse</em>',
       significado:
         '(DWH) o bodega de datos, base de datos con gran cantidad de información que sirve como insumo para los reportes BI.',
     },
     {
       termino: 'Disparadores',
       significado:
-        '<em>Triger.</em> Desencadena una acción a partir de unas condiciones o parámetros, se implementa con frecuencia para la automatización de procesos y otros usos.',
+        '<em>Trigger.</em> Desencadena una acción a partir de unas condiciones o parámetros, se implementa con frecuencia para la automatización de procesos y otros usos.',
     },
     {
       termino: 'Estilos',
@@ -235,7 +227,7 @@ export default {
     },
     {
       termino: '<em>IT</em>',
-      significado: 'TI, en español, iniciales de tecnología e información.',
+      significado: ' TI, en español, iniciales de tecnología e información.',
     },
     {
       termino: '<em>Merge</em>',
@@ -261,29 +253,24 @@ export default {
   referencias: [
     {
       referencia:
-        'Agrawal, A., Joshua, G., & Avi, G. (2019). <em>Máquinas predictivas: la sencilla economía de la inteligencia artificial.</em> Barcelona, España: Editorial Reverté.',
+        'Agrawal, A., Joshua, G., & Avi, G. (2019). <em>Máquinas predictivas: la sencilla economía de la inteligencia artificial.</em> Editorial Reverté.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122310',
     },
     {
       referencia:
-        'Amazon Web Service. (2022). <em>https://aws.amazon.com/es/sagemaker/.</em>',
-      link: 'https://aws.amazon.com/es/sagemaker/',
-    },
-    {
-      referencia:
-        'Bobadilla, J. (2020). <em>Machine Learning y Deep Learning.</em> Bogotá, D.C: Ediciones de la U.',
+        'Bobadilla, J. (2020). <em>Machine Learning y Deep Learning.</em> Ediciones de la U.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10277',
     },
     {
       referencia:
-        'Díaz, J. C. (2016). <em>Organizaciones orientadas al dato: transformando las organizaciones hacia una cultura analítica.</em> Barcelona: Editorial UOC.',
+        'Díaz, J. C. (2016). <em>Organizaciones orientadas al dato: transformando las organizaciones hacia una cultura analítica.</em> Editorial UOC. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/58609',
     },
     {
       referencia:
-        'Dot CSV. (2019). <em>¿Qué es el Aprendizaje Supervisado y No Supervisado?</em> [Video]. Youtube.',
+        'Dot CSV. (2019). <i>¿Qué es el Aprendizaje Supervisado y No Supervisado?</i> [video]. YouTube.',
       link: 'https://youtu.be/oT3arRRB2Cw',
     },
     {
@@ -305,13 +292,13 @@ export default {
     },
     {
       referencia:
-        'Microsoft. (2018). <em>Aprenda los fundamentos de DAX en 30 minutos.</em> Support.microsoft.com. Recuperado el 28 de 09 de 2022, de:',
+        'Microsoft. (2018). <em>Aprenda los fundamentos de DAX en 30 minutos.</em> Support.microsoft.com.',
       link:
         'https://support.microsoft.com/es-es/office/tutorial-r%C3%A1pido-aprenda-los-fundamentos-de-dax-en-30-minutos-51744643-c2a5-436a-bdf6-c895762bec1a',
     },
     {
       referencia:
-        'Ommi, A. K. (18 de 02 de 2018). <em>Introduction to Data and Information.</em> MyCloudWiki.',
+        'Ommi, A. K. (018). <em>Introduction to Data and Information.</em> MyCloudWiki.',
       link: 'https://www.mycloudwiki.com/san/data-and-information-basics/',
     },
     {
