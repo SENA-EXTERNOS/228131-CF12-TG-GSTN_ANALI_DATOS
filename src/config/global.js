@@ -183,7 +183,7 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/58609',
     },
     {
-      tema: 'Análisis de requerimientos para la toma de decisiones',
+      tema: 'Desarrollo de KPI y visualización de datos',
       referencia:
         'Microsoft (2018). <em></em>Tutorial rápido: aprenda los fundamentos DAX en 30 minutos</em>. Microsoft.',
       tipo: 'Tutorial',
@@ -191,7 +191,7 @@ export default {
         'https://support.microsoft.com/es-es/office/tutorial-r%C3%A1pido-aprenda-los-fundamentos-de-dax-en-30-minutos-51744643-c2a5-436a-bdf6-c895762bec1a',
     },
     {
-      tema: 'Análisis de requerimientos para la toma de decisiones',
+      tema: 'Desarrollo de KPI y visualización de datos',
       referencia:
         'Zabala. (2021). <i>MOOC Power BI. Índice módulo 1 | 1/136 | UPV</i> (video). YouTube.',
       tipo: 'MOOC',
@@ -292,7 +292,7 @@ export default {
     },
     {
       referencia:
-        'Microsoft. (2018). <em>Aprenda los fundamentos de DAX en 30 minutos.</em> Support.microsoft.com.',
+        'Microsoft. (2018). <i>Tutorial rápido: aprenda los fundamentos DAX en 30 minutos</i>. Microsoft.',
       link:
         'https://support.microsoft.com/es-es/office/tutorial-r%C3%A1pido-aprenda-los-fundamentos-de-dax-en-30-minutos-51744643-c2a5-436a-bdf6-c895762bec1a',
     },

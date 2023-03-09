@@ -311,10 +311,10 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             p Luego, asignarles los datos a los ejes, según corresponda.
-            p Tabla de <i>dimensión calendario</i>, tiene un dato de fecha (la recomendación es poner la fecha como jerarquía y, de esta manera, se pueden ver los datos por meses, semanas, trimestres, días, etc.).
+            p Tabla de <b>dimensión calendario</b>, tiene un dato de fecha (la recomendación es poner la fecha como jerarquía y, de esta manera, se pueden ver los datos por meses, semanas, trimestres, días, etc.).
 
-            p <i>Tiene un valor</i> y, ocasionalmente, estos valores surgen de una medida; pero, en este caso, el sistema de facturación ya lo trae procesado, así que se selecciona la columna <i>total pago</i> de la tabla de hechos ventas.
-            p Se deben incluir los <i>vendedores</i> y, en este caso, cada uno representa un color que indica el volumen de las ventas realizadas, en dinero.
+            p <b>Tiene un valor</b> y, ocasionalmente, estos valores surgen de una medida; pero, en este caso, el sistema de facturación ya lo trae procesado, así que se selecciona la columna <b>total pago</b> de la tabla de hechos ventas.
+            p Se deben incluir los <b>vendedores</b> y, en este caso, cada uno representa un color que indica el volumen de las ventas realizadas, en dinero.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/img3-29.png', alt='Gráfico vendedores')

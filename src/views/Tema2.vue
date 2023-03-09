@@ -46,23 +46,19 @@
                 th Herramientas
             tbody
               tr
-                td.text-center 
-                  em Oracle
+                td.text-center Oracle
                 td.ps-5 
                   ul.lista-ul
                   li
                     i
-                    |Oracle 
-                    em Data Integrator 
+                    |Oracle Data Integrator 
                     |(ODI)
                   li
                     i
-                    |Oracle 
-                    em WarehouseBuilder 
+                    |Oracle WarehouseBuilder 
                     |(OWB)
               tr
-                td.text-center
-                  em Microsoft
+                td.text-center Microsoft
                 td.ps-5 
                   ul.lista-ul
                   li
@@ -72,8 +68,7 @@
                     i
                     |Azure Databricks
               tr
-                td.text-center
-                  em Hitachi
+                td.text-center Hitachi
                 td.ps-5 
                   ul.lista-ul
                   li
@@ -192,7 +187,7 @@
           p(numero="2" titulo="Estructura del cubo") Las dimensiones definen la estructura del cubo, que se utiliza para segmentar y dividir los datos, y las medidas proporcionan los valores numéricos. Como estructura lógica, un cubo permite a una aplicación cliente, recuperar valores de medidas como si estuvieran almacenados en las celdas del cubo.
           p(numero="3" titulo="Profundidad del cubo") Adicionalmente, se presentan estructuras por jerarquía de datos, que podrían definir, de alguna manera, la profundidad o detalle de las consultas. El ejemplo más común de datos jerárquicos es el tiempo, que tiene año, trimestre, mes, semana, día, y esto puede definir el detalle de los reportes.
           p(numero="4" titulo="Aplicaciones OLAP en la inteligencia de negocios") Las aplicaciones OLAP son pilares de cualquier solución de inteligencia de negocios, debido a que proveen información sumarizada a los que toman las decisiones, mediante métodos convenientes de navegación, que les permiten analizar y mantener una conversación fluida, con los datos de la organización, en óptimos tiempos de respuesta.
-          p(numero="5" titulo="Aplicación de filtros") Las aplicaciones OLAP son pilares de cualquier solución de inteligencia de negocios, debido a que proveen información sumarizada a los que toman las decisiones, mediante métodos convenientes de navegación, que les permiten analizar y mantener una conversación fluida, con los datos de la organización, en óptimos tiempos de respuesta.
+          p(numero="5" titulo="Aplicación de filtros") Los OLAP funcionan como tablas dinámicas multidimensionales. Cuando se habla de múltiples dimensiones, se refiere a que se pueden aplicar diversos filtros. Por ejemplo, visualizar las ventas del vendedor 3, en la ciudad de Medellín y, a su vez, estas ventas en la segunda semana del mes de junio, pero también se podría adicionar el detalle de qué marca son las que vendió.
             br
             br
             |<b>Dimensiones</b>: vendedor, ciudad, marcas, fecha.

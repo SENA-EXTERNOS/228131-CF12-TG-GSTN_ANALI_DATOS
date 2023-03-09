@@ -308,7 +308,7 @@
 
         .row.justify-content-center.align-items-center(titulo="4")
           .col-md-6.mb-4.mb-md-0
-            p En la mayoría de los casos, no es posible iniciar con todas las áreas de una vez. Después de pasar por un análisis global sobre la organización, hay que enforcarse en los procesos más críticos e importantes (iniciar por procesos financieros, de producción, directamente relacionados con la gerencia, etc.). Es fundamental comenzar con una base sólida y definida, que pueda irse incrementando, para mejorar la calidad, extensión y puntualidad de la información.
+            p En la mayoría de los casos, no es posible iniciar con todas las áreas de una vez. Después de pasar por un análisis global sobre la organización, hay que enfocarse en los procesos más críticos e importantes (iniciar por procesos financieros, de producción, directamente relacionados con la gerencia, etc.). Es fundamental comenzar con una base sólida y definida, que pueda irse incrementando, para mejorar la calidad, extensión y puntualidad de la información.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img1-35.svg', alt='Acuerdo')
