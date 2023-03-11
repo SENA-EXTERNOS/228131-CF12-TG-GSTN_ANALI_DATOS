@@ -102,7 +102,7 @@
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img2-4.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Como hemos mencionado anteriormente, los orígenes de datos están dados a partir de los sistemas de información y, ocasionalmente, por archivos de datos que se generan en los procesos y áreas del negocio. Es importante tener en cuenta los accesos a las bases de datos y hacer un exhaustivo análisis de la data original, teniendo en cuenta, la siguiente información:
+            p.mb-0 Como hemos mencionado anteriormente, los orígenes de datos están dados a partir de los sistemas de información y ocasionalmente, por archivos de datos que se generan en los procesos y áreas del negocio. Es importante tener en cuenta los accesos a las bases de datos y hacer un exhaustivo análisis de la data original, teniendo en cuenta, la siguiente información:
 
     .row.justify-content-center.mb-5
       .col-lg-4(data-aos='fade-right')
@@ -185,7 +185,7 @@
          LineaTiempoD.color-acento-contenido
           p(numero="1" titulo="Cubos OLAP") Denominados generalmente como cubos OLAP (OnLine Analytical Processing) o procesamiento Analítico en Línea, se refiere a una estructura multidimensional que contiene información con objetivos analíticos y se compone principalmente, de dimensiones y medidas.
           p(numero="2" titulo="Estructura del cubo") Las dimensiones definen la estructura del cubo, que se utiliza para segmentar y dividir los datos, y las medidas proporcionan los valores numéricos. Como estructura lógica, un cubo permite a una aplicación cliente, recuperar valores de medidas como si estuvieran almacenados en las celdas del cubo.
-          p(numero="3" titulo="Profundidad del cubo") Adicionalmente, se presentan estructuras por jerarquía de datos, que podrían definir, de alguna manera, la profundidad o detalle de las consultas. El ejemplo más común de datos jerárquicos es el tiempo, que tiene año, trimestre, mes, semana, día, y esto puede definir el detalle de los reportes.
+          p(numero="3" titulo="Profundidad del cubo") Adicionalmente, se presentan estructuras por jerarquía de datos, que podrían definir, de alguna manera la profundidad o detalle de las consultas. El ejemplo más común de datos jerárquicos es el tiempo, que tiene año, trimestre, mes, semana, día, y esto puede definir el detalle de los reportes.
           p(numero="4" titulo="Aplicaciones OLAP en la inteligencia de negocios") Las aplicaciones OLAP son pilares de cualquier solución de inteligencia de negocios, debido a que proveen información sumarizada a los que toman las decisiones, mediante métodos convenientes de navegación, que les permiten analizar y mantener una conversación fluida, con los datos de la organización, en óptimos tiempos de respuesta.
           p(numero="5" titulo="Aplicación de filtros") Los OLAP funcionan como tablas dinámicas multidimensionales. Cuando se habla de múltiples dimensiones, se refiere a que se pueden aplicar diversos filtros. Por ejemplo, visualizar las ventas del vendedor 3, en la ciudad de Medellín y, a su vez, estas ventas en la segunda semana del mes de junio, pero también se podría adicionar el detalle de qué marca son las que vendió.
             br
