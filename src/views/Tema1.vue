@@ -33,7 +33,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             p En ocasiones, los proyectos de BI se inician con la motivación de entrar en una ola digital, o estar en la moda de la tecnología, incluso sin tener requisitos o necesidades visibles, o al menos conscientes.
-            p En caso que las empresas, como las pymes, no tengan claridad sobre el uso del BI en el negocio, es necesario aterrizar a los directivos para hacer conciencia, porque muchos problemas de la organización se deben a la falta de datos al instante, actualizados, y que reflejen la realidad.
+            p En caso de que las empresas, como las pymes, no tengan claridad sobre el uso del BI en el negocio, es necesario aterrizar a los directivos para hacer conciencia, porque muchos problemas de la organización se deben a la falta de datos al instante, actualizados, y que reflejen la realidad.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img1-4.svg', alt='Reunión de trabajo')
@@ -191,7 +191,7 @@
       .col-lg-8(data-aos='fade-left')
          LineaTiempoD.color-acento-contenido
           p(numero="1" titulo="Mantenimientos predictivos") Los datos pueden ayudar a predecir la falla de un equipo, teniendo en cuenta datos como: año del equipo, marca, modelo y, además, con los registros de temperatura, uso, cambio de repuestos, etc. Con estos datos, los fabricantes pueden maximizar el tiempo de actividad de las piezas y los equipos, e implementar el mantenimiento de la manera más rentable, e igualmente, calcular mejor la rentabilidad del equipo, su depreciación y vida útil.
-          p(numero="2" titulo="Operaciones eficientes") Cuando hay producción en línea, los datos pueden ayudar a optimizar costos y tiempos, analizando el flujo de producción, así como analizando también, los tiempos y los recursos. 
+          p(numero="2" titulo="Operaciones eficientes") Cuando hay producción en línea, los datos pueden ayudar a optimizar costos y tiempos, analizando el flujo de producción, así como los tiempos y recurso. 
           p(numero="3" titulo="Desarrollo de nuevos productos") Los datos podrían ayudar a la empresa a anticipar la demanda de los clientes, al analizar compras del pasado, al igual que, crear ofertas y saber si el público adquiere nuevos productos y servicios.
           p(numero="4" titulo="Mejorar experiencia del cliente") A partir de los datos históricos y otros como temporada y análisis de consumo, cada cliente se perfila de manera individual para ofrecerle los productos más pertinentes a sus hábitos de vida y compras.
           p(numero="5" titulo="Mejorar la experiencia en puntos de venta físicos") Haciendo uso de la geolocalización de los celulares se mejora la oferta a los clientes, ofreciendo productos que están más cerca de ellos y de esta manera, alentarlos a visitar las tiendas físicas.
