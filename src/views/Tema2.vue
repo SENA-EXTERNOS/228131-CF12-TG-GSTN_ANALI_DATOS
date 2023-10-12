@@ -151,7 +151,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in")
         figure
-          img(src='@/assets/curso/temas/tema2/img2-8.svg', alt='Flujo de proceso ETL')
+          img(src='@/assets/curso/temas/tema2/img2-8-.svg', alt='Flujo de proceso ETL')
           figcaption Nota. Adaptada de Qlik, (2013).
 
 
